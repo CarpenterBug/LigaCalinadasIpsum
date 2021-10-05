@@ -10,7 +10,13 @@ export default function Home() {
 			</Head>
 
 			<main>
-				<h1>Liga Calinadas Ipsum</h1>
+				<div className='container'>
+					<div className='row'>
+						<div className='col'>
+							<h1>Liga Calinadas Ipsum</h1>
+						</div>
+					</div>
+				</div>
 			</main>
 		</div>
 	);
